@@ -1,0 +1,1 @@
+This folder contains scripts that we can run from within the docker container. These are intended to be useful for dynamically and iteratively setting up the docker environment
